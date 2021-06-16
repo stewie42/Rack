@@ -1,5 +1,5 @@
 ---
-name: Neues Feature
+name: 💡 Neues Feature
 about: Schlage eine neue Funktionalität vor
 title: ''
 labels: ''
