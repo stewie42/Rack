@@ -1,5 +1,0 @@
-blank_issues_enabled: true
-contact_links:
-    - name: Leitfaden zum Erstellen eines Bug-Reports
-      url:  https://github.com/openPetition/openPetition2/blob/master/documentation/Leitfaden.md
-      about: Alles wissenswertes über das Erstellen eines Bug-Reports
